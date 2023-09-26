@@ -1,0 +1,43 @@
+/** {
+    background-color: lightgrey;
+}*/
+ 
+header {
+    background-color:sienna ;
+    padding: 3rem;
+    text-align: center;
+    font-size: 35px;
+    color: black;
+}
+
+nav {
+    /*border: 1px solid green;
+    width: 50%;*/
+    background-color:burlywood;
+    padding: 1rem;
+    text-align: center;
+    font-size: 25px;
+    color: black;
+}
+
+footer {
+    background-color:cornflowerblue ;
+    height: 2.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+article {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+article button {
+    height: 2rem;
+}
