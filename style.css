@@ -40,4 +40,6 @@ article {
 }
 article button {
     height: 2rem;
+    border-color: darkslategrey;
+    border-radius: 10%;
 }
