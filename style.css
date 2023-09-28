@@ -45,7 +45,8 @@ article button {
     border-radius: 10%;
     color:rgb(26, 38, 104);
     padding: 10px;
-    background-color:aliceblue ;
+    background-color:aliceblue;
+    text-wrap: nowrap;
 }
 
 article p {
