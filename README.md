@@ -11,7 +11,3 @@ User rolls dice
 User needs to create account
 User needs to log in
 User needs to roll dice
-
-User stories
-
-User functionalities
