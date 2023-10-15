@@ -37,6 +37,7 @@ article {
     align-items: center;
     padding-top: 1rem;
     padding-bottom: 1rem;
+    flex-wrap: wrap;
 }
 
 article button {
